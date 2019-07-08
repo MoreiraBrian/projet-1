@@ -1,0 +1,6 @@
+Mode operatoire utiliser pour cette découpe:
+
+- Dans un premier temps, je vais determiner quels seront les blocs et leurs contenu.
+- Je vais commencer par recréer chacuns de ces blocs et y intégrer leurs contenu dans le fichier html.
+- Je vais ensuite créer mon fichier css dans le quel je vais commener par donner le style de chaques blocs indépendament.
+- Puis pour terminer je vais mettre mes blocs a leurs place définitive pour que la page soit le plus ressemblant au modéle.
