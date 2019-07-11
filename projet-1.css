@@ -11,6 +11,7 @@ header {
 }
 
 img.logo {
+    display: block;
     width: 35px;
     float: left;
 }
@@ -26,7 +27,7 @@ div.conection {
     color: blueviolet;
     width: 1050px;
     margin: auto;
-    padding: 20px;
+    padding: 6px;
 }
 
 div.conection div {
@@ -71,8 +72,14 @@ div.total {
 }
 
 .article {
-    padding-left: 200px;
+    padding-left: 180px;
     padding-right: 200px;
+}
+
+.contenu {
+    font-family: Encore Sans;
+    line-height: 31px;
+    font-size: 20px;
 }
 
 #parad {
@@ -88,4 +95,116 @@ div.follow img {
     width: 50px;
     border-radius: 50%;
     float: left;
+}
+
+.grotitre {
+    font-family: Encore Sans;
+    font-size: 46px;
+    margin-bottom: 10px;
+}
+
+figcaption {
+    text-align: center;
+    font-size: 90%;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+
+.y {
+    text-align: center;
+    width: 70px;
+    height: 70px;
+    color: white;
+    background-color: black;
+    border-radius: 50%;
+    font-size: 65px;
+    padding: 20px;
+    float: left;
+    margin-right: 20px;
+}
+
+.soulign {
+    text-decoration: underline;
+}
+
+.gras {
+    font-weight: bold;
+}
+
+.suivre {
+    font-size: 12px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    position: absolute;
+    top: 0;
+    left: 157px;
+}
+
+.follow {
+    position: relative;
+    margin-bottom: 70px;
+    margin-top: 30px;
+}
+
+.date {
+    color: gray;
+}
+
+.harry {
+    font-size: 14px;
+    padding: 10px;
+    width: 156px;
+    margin-left: 61px;
+    line-height: 25px;
+    padding-top: 0;
+}
+
+h2 {
+    font-family: Georgia, sans-serif;
+    font-size: 23px;
+    font-weight: normal;
+}
+
+blockquote {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-size: x-large;
+}
+
+.tag {
+    color: black;
+    border: 0;
+    background-color: #d3d3d345;
+    font-size: 14px;
+    padding: 8px;
+    margin-bottom: 20px;
+    margin-bottom: 27px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+hr {
+    opacity: 0, 5;
+}
+
+.followbas {
+    width: 50%;
+    float: left;
+}
+
+.followbas img {
+    width: 65px;
+    border-radius: 50%;
+    float: left;
+}
+
+.followbas button {
+    font-size: 10px;
+    font-size: 18px;
+    margin-left: 4px;
+}
+
+.followbas div {
+    float: left;
+    line-height: 20px;
 }
