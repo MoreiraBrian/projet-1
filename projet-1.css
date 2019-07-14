@@ -236,7 +236,7 @@ footer {
     float: left;
     background-color: #e0dacf36;
     width: 100%;
-    height: 400px;
+    height: 300px;
     padding: 20px;
 }
 
@@ -250,7 +250,7 @@ img.pub {
     width: 309px;
     float: left;
     margin-right: 15px;
-    height: 290px;
+    height: 248px;
     background-color: white;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
@@ -288,4 +288,17 @@ img.pub {
     margin-bottom: 30px;
     padding-bottom: 36px;
     border-bottom: 1px solid #d3d3d357;
+}
+
+.text1 {
+    padding-left: 6%;
+}
+
+h3 {
+    font-size: 98%;
+}
+
+.clap1 {
+    display: flex;
+    flex-direction: row;
 }
